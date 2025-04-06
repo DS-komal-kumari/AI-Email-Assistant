@@ -8,6 +8,7 @@ This is a prototype for an AI-powered email assistant developed as part of the i
 - Uses HuggingFace's `google/flan-t5-base` to understand and respond to email queries
 - Automatically drafts professional replies
 - (Optional) Saves all replies into a CSV file for review
+
 ## 🔧 Tech Stack
 
 - Python
