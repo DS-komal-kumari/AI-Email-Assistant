@@ -1,4 +1,3 @@
-# AI-Email-Assistant
 # AI Personal Email Assistant 🤖📧
 
 This is a prototype for an AI-powered email assistant developed as part of the internship task at **Wasserstoff**. The assistant reads emails, understands their intent, and generates polite professional replies using a transformer-based language model.
@@ -9,14 +8,13 @@ This is a prototype for an AI-powered email assistant developed as part of the i
 - Uses HuggingFace's `google/flan-t5-base` to understand and respond to email queries
 - Automatically drafts professional replies
 - (Optional) Saves all replies into a CSV file for review
-
 ## 🔧 Tech Stack
 
 - Python
 - HuggingFace Transformers (`flan-t5-base`)
 - Jupyter Notebook / Python Script
 - Pandas (for saving replies to CSV)
-  
+
 ## 🔍 How It Works
 
 1. A list of emails is provided as input.
