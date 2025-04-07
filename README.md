@@ -1,8 +1,4 @@
-Here you go, Komal! 💻✨ Here's a clean and professional `README.md` for your **AI Personal Email Assistant Project**. You can copy this directly into your project folder.
 
----
-
-```markdown
 # 📧 AI Personal Email Assistant 🤖
 
 An AI-powered personal email assistant that reads your Gmail inbox, understands email context using an LLM, and performs smart actions like drafting replies, sending Slack messages, or scheduling meetings on Google Calendar.
